@@ -1,0 +1,19 @@
+{
+  "name": "imagesearch",
+  "version": "1.0.0",
+  "description": "Freecodecamp image api project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kseniya292/imagesearch.git"
+  },
+  "author": "Kseniya Lifanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kseniya292/imagesearch/issues"
+  },
+  "homepage": "https://github.com/kseniya292/imagesearch#readme"
+}
