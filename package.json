@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/kseniya292/imagesearch#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "nodemon": "^1.11.0"
+    "moment": "^2.16.0",
+    "mongodb": "^2.2.11",
+    "nodemon": "^1.11.0",
+    "request": "^2.78.0"
   }
 }
