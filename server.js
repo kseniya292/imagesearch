@@ -14,7 +14,7 @@ app.set('MONGO_URL', (process.env.MONGO || localURL))
 //(Focus on This Variable)
 
 app.get('/', function (req, res) {
-	res.render('to search for kittens, add parameters to url like this: "/search/kittens"');
+	res.send('to search for kittens, add parameters to url like this: "/search/kittens"');
 });
 
 
